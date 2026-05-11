@@ -8,13 +8,13 @@
 
 > Un generador visual para crear un README.md increíble para tu perfil de GitHub. Crea un perfil impactante en minutos, sin escribir una sola línea de Markdown.
 
-![Demo del Generador](/public/demo.gif) <!-- Puedes añadir una captura de pantalla mostrando la interfaz -->
+![Demo del Generador](/public/demo.png)
 
 ---
 
 ## 🌟 Demo en Vivo
 
-Puedes probar el generador aquí: **[Enlace a tu demo en vivo]** <!-- Añade el enlace cuando lo tengas -->
+Puedes probar el generador aquí: **[https://github-readme-generator-n2ry.onrender.com]**
 
 ---
 
